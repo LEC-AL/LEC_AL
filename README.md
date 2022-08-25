@@ -12,7 +12,7 @@
   <body>
     <header class="header">
       <img src="./avatar1.png" alt="avatar" class="header__avatar" />
-      <h1 class="header__title">Владислав Савенков</h1>
+      <h1 class="header__title">Сухлдымцев Алексей</h1>
       <h3 class="header__subtitle">Жили-Были</h3>
     </header>
     <main>
