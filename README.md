@@ -62,9 +62,6 @@
       </section>
     </main>
     <footer>
-      <button type = "button" class="button-link" href=""> Всегда на позитиве </button>
-    </footer>
-    <script type="text/javascript" src="js.js"></script>
     <audio src="Emancipator - Anthem.mp3" controls></audio>
   </body>
 </html>
